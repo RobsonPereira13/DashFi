@@ -1,0 +1,9 @@
+com\projeto\dashfi_t\Card.class
+com\projeto\dashfi_t\Card_.class
+com\projeto\dashfi_t\Valor_.class
+com\projeto\dashfi_t\service\CardFacadeREST.class
+com\projeto\dashfi_t\service\ApplicationConfig.class
+com\projeto\dashfi_t\service\AbstractFacade.class
+com\projeto\dashfi_t\service\ValorFacadeREST.class
+com\projeto\dashfi_t\Valor.class
+util\Conexao.class
